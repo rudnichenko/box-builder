@@ -23,8 +23,8 @@ h1 {
 }
 
 .box {
-  width: 10vw;
-  height: 10vw;
+  width: 8vw;
+  height: 8vw;
   margin: 10px;
   padding: 10px;
   border: 1px solid black;
@@ -74,7 +74,7 @@ option {
 }
 
 input[type=submit] {
-  margin: 0 10px;
+  margin: 0 0 0 10px;
 }
 
 p {
